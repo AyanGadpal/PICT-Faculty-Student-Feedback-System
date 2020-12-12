@@ -5,7 +5,8 @@ teachers provided to the students. These facilities include the teaching mechani
 lab assistance, and services, cultural and sports activities conducted and library
 maintenance, etc. PICT feedback system will help make the feedback assessment
 much easier than previous along with providing an interactive interface for both
-client and server-side.
+client and server-side.<br>
+![Diagram](feedback_project/Diagram.png)<br>
 The web application must be able to provide the following services:
 1. Students will be able to give feedback more intuitively and surf through on
 their dashboard.
