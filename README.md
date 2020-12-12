@@ -7,7 +7,7 @@ maintenance, etc. PICT feedback system will help make the feedback assessment
 much easier than previous along with providing an interactive interface for both
 client and server-side.<br>
 ![Diagram](feedback_project/Diagram.png)<br>
-The web application must be able to provide the following services:
+Our web application is able to provide the following services:
 1. Students will be able to give feedback more intuitively and surf through on
 their dashboard.
 2. At the time of data entry in the admin side, efficient and fast flow through to
