@@ -1,0 +1,63 @@
+*
+{
+	margin:0px;
+	padding: 0px;
+}
+nav{
+	margin:10px;
+	height:50px;
+}
+nav a{
+	margin:20px;
+	
+}
+section h1{
+	font-size:20px;
+	width:100px;
+	text-align:center;
+	background-color:#00ffff;
+	border:1px solid black;
+}
+section h1:hover{
+	background-color:blue;
+	color:white;
+	cursor:pointer;
+}
+section h1 a{
+	text-decoration:none;
+}
+section h1 a:hover
+{
+	color:white;
+}
+#active{
+	color:red;
+	
+}
+#bubbleActive{
+	background: #800;
+}
+.bubbleDone{
+	background: #0f0;
+	width: 30px;
+	height: 30px;
+	margin-left:20px;
+	border-radius: 100%; 
+}
+
+.bubble
+{
+	width: 30px;
+	height: 30px;
+	margin-left:20px;
+	background-color: #f00;
+	border-radius: 100%; 
+}
+.navcon
+{
+	float:left;
+}
+
+#previous{
+	color:green;
+}
