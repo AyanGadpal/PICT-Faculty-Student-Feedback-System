@@ -8,7 +8,7 @@ much easier than previous along with providing an interactive interface for both
 client and server-side.<br>
 For more detail, Please refer the [SRS Document](SRS_Feedback_Management_System.pdf)
 <br><br>
-![Diagram](feedback_project/Diagram.png)<br>
+![Diagram](feedback_project/Diagram.png)<br><br>
 Our web application is able to provide the following services:
 1. Students will be able to give feedback more intuitively and surf through on
 their dashboard.
