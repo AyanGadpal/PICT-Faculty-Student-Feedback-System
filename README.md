@@ -32,7 +32,6 @@ to download.
 
 ## REQUIREMENTS
 * Eclipse
-* Glassfish server 4.1 
 * Java 8 
 * MySQL Server 
 * Bootstrap/css/JQuery 
